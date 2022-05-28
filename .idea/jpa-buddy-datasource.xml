@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="d22c28fd-4c34-4310-90fd-347fd907ea04" name="NewSpringBoot" url="jdbc:postgresql://localhost:5432/postgres" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
